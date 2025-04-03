@@ -14,3 +14,7 @@ Ongoing
 - Figure out how to analyze accuracy
     - Brainstorm ideas by 4/4/2025
 - Analyze & adjust parameters
+
+**Data Sets**
+https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset
+https://universe.roboflow.com/people-counting/people_counting
